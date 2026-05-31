@@ -1,5 +1,5 @@
 ---
-name: follow-builders
+name: follow-builders-local
 description: AI builders digest — monitors top AI builders on X and YouTube podcasts, remixes their content into digestible summaries. Use when the user wants AI industry insights, builder updates, or invokes /ai. No API keys or dependencies required — all content is fetched from a central feed.
 ---
 
