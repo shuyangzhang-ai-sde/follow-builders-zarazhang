@@ -8,7 +8,7 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync } from 'fs';
 import { join } from 'path';
 import { homedir } from 'os';
 
-const DIGEST_DIR = join(homedir(), 'follow-ai-builders');
+const DIGEST_DIR = join(homedir(), 'follow-builders-local', 'digests');
 const TZ = 'America/Chicago';
 
 function getISOWeek(date) {
